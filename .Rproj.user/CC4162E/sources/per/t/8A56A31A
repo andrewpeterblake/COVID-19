@@ -1,0 +1,24 @@
+{
+    "id": "8A56A31A",
+    "path": "C:/Users/Andrew Blake/Desktop/COVID-19/excess_deaths/app.R",
+    "project_path": "excess_deaths/app.R",
+    "type": "r_source",
+    "hash": "4026979378",
+    "contents": "",
+    "dirty": false,
+    "created": 1592229780808.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "41,0",
+        "scrollLine": "20"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1592294485,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1592294485316,
+    "read_only": false,
+    "read_only_alternatives": []
+}
